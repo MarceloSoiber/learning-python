@@ -4,3 +4,8 @@ source .venv/bin/activate // ativar
 
 deactivate  // desativa
 
+pip install django // instalando django
+
+python manage.py runserver // iniciar servidor
+
+pip install Pillow // biblioteca de imagens
